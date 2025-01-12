@@ -6,7 +6,7 @@ Ensures your curated collection stays up-to-date with new additions (or removals
 It can be scheduled to run (eg. daily) or run manually. 
 
 ## Technical Infrastructure
-
+![image](https://github.com/user-attachments/assets/3334f7f9-31c6-4a8a-b912-2ecac76c9a9b)
 
 The GCP (Google Cloud Platform) portion is skipped if running locally. 
 
